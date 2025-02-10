@@ -154,7 +154,7 @@ The `tests` folder contains unit tests for all the functions, and an integration
 
 ## Licence
 
-Unless stated otherwise, the codebase is released under the [MIT License](./LICENCE).
+Unless stated otherwise, the codebase is released under the [MIT License](LICENCE).
 
 Any HTML or Markdown documentation is [© Crown copyright](https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) and available under the terms of the [Open Government 3.0 licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
