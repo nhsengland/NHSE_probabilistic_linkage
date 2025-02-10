@@ -1,0 +1,8 @@
+pypandoc==1.5
+pyspark==3.5.4
+pandas==2.2.3
+abydos==0.5.0
+numpy==1.26.4
+Levenshtein==0.21.1
+splink==3.9.13
+sqlglot==22.5.0
