@@ -96,7 +96,7 @@ The `tests` folder contains unit tests for all the functions, and an integration
 
 `run_pipeline.py` is a wrapper notebook from which you can run training, predict, or evaluation, for either the linking or the dedupe pipeline.
 
-'run_tests` is a wrapper to run all the unit and integration tests.
+`run_tests.py` is a wrapper to run all the unit and integration tests.
 
 ### Full repository structure
 
