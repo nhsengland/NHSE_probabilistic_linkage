@@ -61,7 +61,7 @@ Notebooks to select subsets of data that are used for training and evaluation:
 
 ### Training
 
-Notebooks to train and save the model that gets used in [`predict.py`](#predict). Can vary by the dataset being trained on, or by the parameters used in the training setup.
+Notebooks to train and save the model that gets used in [`predict`](#predict). Can vary by the dataset being trained on, or by the parameters used in the training setup.
 
 1. `training_linking.py` (linkage only)
 2. `training_dedupe.py` (deduplication only)
