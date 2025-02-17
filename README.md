@@ -1,5 +1,9 @@
 # NHS England Probabilistic Linkage
 
+> [!WARNING]
+> Note: this is not currently used for data linkage in NHS England. It is in alpha development and requires thorough quality assurance.
+> It is shared here for transparency and collaboration.
+
 This pipeline can be used to create and evaluate variations of a probabilistic linkage model, using the [Splink][splink] package, for linking and/or deduplicating record-level data at NHS England.
 
 ## Contact
