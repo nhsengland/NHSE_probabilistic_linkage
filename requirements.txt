@@ -1,5 +1,5 @@
 pypandoc==1.5
-pyspark==3.5.4
+pyspark==3.5.8
 pandas==2.2.3
 abydos==0.5.0
 numpy==1.26.4
